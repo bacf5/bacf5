@@ -8,7 +8,7 @@
   <br>
   <p>🇦🇷 | 🇮🇹</p>
   <p>
-    <a href="https://twitter.com/bruacf"><img width="18" height="18" src="https://raw.githubusercontent.com/bacf5/bacf5/053f9caf1b283e8e2a8f7033fef447b1ef109502/images/x.svg?token=ARQY6OWMJCPF22CKFWAK65LJGBIKE" /></a> 
+    <a href="https://twitter.com/bruacf"><img width="18" height="18" src="https://github.com/bacf5/bacf5/blob/936c35474b4ac96ee5aa6b7e54d1fa4af132281b/images/x.svg" /></a> 
    <!-- add image/svg
     <a href=""><img width="18" height="18" src="" /></a> 
     -->
